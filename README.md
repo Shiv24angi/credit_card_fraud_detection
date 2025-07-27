@@ -1,5 +1,4 @@
 # Credit Card Fraud Detection
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Shiv24angi/credit_card_fraud_detection)
 
 This project is a web application that uses a machine learning model to detect credit card fraud in real-time. It features a simple user interface built with Flask and HTML, allowing users to input transaction data and receive an instant prediction on whether the transaction is legitimate or fraudulent.
 
